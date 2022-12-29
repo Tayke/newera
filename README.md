@@ -1,6 +1,6 @@
 # newera
 
-## Newera Document Management & Production Planning Software.
+## Document Management & Production Planning Software.
 
 ```
 This software is private and fullfilled with requiremens of Newera™.
