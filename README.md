@@ -1,5 +1,13 @@
 # newera
 
+## Newera Document Management & Production Planning Software.
+
+This software is private and fullfilled with requiremens of Newera™.
+
+```
+yarn install
+```
+
 ## Project setup
 ```
 yarn install
